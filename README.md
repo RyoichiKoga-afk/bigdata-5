@@ -142,9 +142,9 @@ data/ atau stream_data/
 
 ## 👨‍💻 Identitas
 
-* Nama: (Isi Nama Kamu)
-* NIM: (Isi NIM)
-* Kelas: (Isi Kelas)
+* Nama: (M. Agil Tauhit Ismail)
+* NIM: (230104040223)
+* Kelas: (TI23A)
 
 ---
 
